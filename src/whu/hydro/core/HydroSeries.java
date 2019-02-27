@@ -141,6 +141,7 @@ public class HydroSeries {
     }
 
     private void setHydros(Date[] dates, double[] P, double[] E) {
+
         if (dates!=null) {
             for (int i = 0; i < dates.length; i++) {
                 hydros[i].date = dates[i];
@@ -148,6 +149,10 @@ public class HydroSeries {
         }
 
         if (P!=null) {
+            hydros = new Hydro[P.length];
+            for (int i = 0; i < P.length; i++) {
+                hydros[i] = new Hydro();
+            }
             for (int i = 0; i < P.length; i++) {
                 hydros[i].P = P[i];
             }
