@@ -103,6 +103,9 @@ public class Tank {
     private double getBiankongK_(int n, double t, double h) {
         double ret = 0;
         double a = getA(n);
+        if(a <= DefautParameter.ERROR) {
+            return 0;
+        }
         double b = getB(n);
         double beta = this.alpha[0];
 
@@ -312,6 +315,9 @@ public class Tank {
     */
     private double getHByT_(double h0, double t, int n) {
         double a = getA(n);
+        if (a<=DefautParameter.ERROR) {
+            return h0;
+        }
         double b = getB(n);
         return b/a + (h0-b/a)*Math.exp(-a*t);
     }

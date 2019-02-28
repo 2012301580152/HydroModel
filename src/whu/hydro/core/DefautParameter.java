@@ -14,4 +14,5 @@ public class DefautParameter {
     final public static double ERROR = 0.0000001; // 比较误差
     final public static double CALERROR = 0.001; // 水箱水位误差
     final public static double TIMESTEP = 1.0; // 以小时为单位
+    final public static double OUTK = 0.1;
 }
