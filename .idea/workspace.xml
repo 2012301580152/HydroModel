@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b540bce7-a237-420e-870c-74f6de73d323" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/architecture/TankModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/architecture/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/optimize/GA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/DownUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Ga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/JGAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Top.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whu/hydro/parameter/TankModelParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data" beforeDir="false" afterPath="$PROJECT_DIR$/data/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whu/hydro/core/DefautParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whu/hydro/core/DefautParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whu/hydro/core/model/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whu/hydro/core/model/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/core/model/Tank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="2873">
               <caret line="184" selection-start-line="184" selection-end-line="184" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/TankModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="144" column="76" selection-start-line="144" selection-start-column="76" selection-end-line="144" selection-end-column="76" />
+            <state relative-caret-position="-628">
+              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#650#651#0" expanded="true" />
@@ -58,12 +45,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/parameter/TankModelParameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
+            <state relative-caret-position="3774">
               <caret line="225" column="24" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5855#5856#0" expanded="true" />
-                <element signature="e#5877#5878#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="221">
               <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="323">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/output">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -105,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/JGAP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+            <state relative-caret-position="256">
+              <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Top.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="297">
+              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Ga.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="323">
               <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#338#339#0" expanded="true" />
@@ -142,7 +127,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/data">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="3774">
               <caret line="222" column="5" selection-start-line="222" selection-start-column="5" selection-end-line="222" selection-end-column="5" />
             </state>
           </provider>
@@ -193,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Parameter.java" />
         <option value="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/DownUp.java" />
         <option value="$PROJECT_DIR$/src/whu/hydro/core/DefautParameter.java" />
-        <option value="$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java" />
         <option value="$PROJECT_DIR$/src/whu/hydro/architecture/Test.java" />
         <option value="$PROJECT_DIR$/src/whu/hydro/core/model/Tank.java" />
         <option value="$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Top.java" />
@@ -202,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/whu/hydro/parameter/TankModelParameter.java" />
         <option value="$PROJECT_DIR$/src/whu/hydro/architecture/TankModel.java" />
         <option value="$PROJECT_DIR$/data/output" />
+        <option value="$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java" />
       </list>
     </option>
   </component>
@@ -217,8 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,14 +273,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551353340598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551408357760" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/861879635/FileRecv/guanshanhe4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -427,7 +415,8 @@
       <workItem from="1551278474306" duration="73000" />
       <workItem from="1551319553863" duration="15683000" />
       <workItem from="1551340073528" duration="1353000" />
-      <workItem from="1551341756681" duration="5147000" />
+      <workItem from="1551341756681" duration="5804000" />
+      <workItem from="1551406062369" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="add hydro model of tank">
       <created>1550670203605</created>
@@ -443,17 +432,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551278532754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="get dc is 0.50">
+      <created>1551353379416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551353379416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84641000" />
+    <option name="totallyTimeSpent" value="86376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22186667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22453333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -493,7 +489,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hydro model of tank" />
     <MESSAGE value="complete the part of tank" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete the part of tank" />
+    <MESSAGE value="get dc is 0.50" />
+    <option name="LAST_COMMIT_MESSAGE" value="get dc is 0.50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -575,6 +572,12 @@
           <line>148</line>
           <properties />
           <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/JGAP.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -819,7 +822,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whu/hydro/core/model/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="2873">
           <caret line="184" selection-start-line="184" selection-end-line="184" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -829,20 +832,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Top.java">
+    <entry file="file://$PROJECT_DIR$/src/whu/hydro/parameter/TankModelParameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="3774">
+          <caret line="225" column="24" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/JGAP.java">
+    <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+        <state relative-caret-position="221">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -851,7 +854,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Ga.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
+        <state relative-caret-position="323">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#338#339#0" expanded="true" />
@@ -862,52 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="3774">
           <caret line="222" column="5" selection-start-line="222" selection-start-column="5" selection-end-line="222" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/whu/hydro/parameter/TankModelParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="225" column="24" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5855#5856#0" expanded="true" />
-            <element signature="e#5877#5878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/TankModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="144" column="76" selection-start-line="144" selection-start-column="76" selection-end-line="144" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -915,6 +874,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/JGAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whu/hydro/optimize/jgap/Top.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whu/hydro/architecture/TankModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -16,7 +16,7 @@ public class Bootstrap {
         TankModelParameter t = new TankModelParameter();
 
         DownUp[] downUps = t.downUpsFactory();
-        JGAP jgap = new JGAP(200, downUps);
+        JGAP jgap = new JGAP(500, downUps);
         jgap.run();
     }
 }
